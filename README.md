@@ -1,10 +1,6 @@
 # EigenFaces vs FisherFaces
 
-This repository contains code for the project **EigenFaces vs FisherFaces**, which is a part of the Machine Learning course (ELL 784) at IIT Delhi, taught by Prof. Sumantra Dutta Roy.
-
-## Problem Statement
-
-To develop a facial recognition system that is highly insensitive to variations in lighting direction, intensity, and facial expressions while maintaining a good level of recognition accuracy.
+This repository contains code for the project **EigenFaces vs FisherFaces**, which is a part of the Machine Learning course (ELL 784) at IIT Delhi, taught by Prof. Sumantra Dutta Roy. The aim is to develop a facial recognition system that is highly insensitive to variations in lighting direction, intensity, and facial expressions while maintaining a good level of recognition accuracy.
 
 ## Methodology
 
@@ -62,10 +58,4 @@ The project demonstrates the strengths and limitations of both approaches:
   - Provides better class separation, leading to higher recognition accuracy.
   - Performs well under challenging lighting and expression variations.
 
-## Usage
 
-To run the project, clone the repository and follow the instructions in the `notebooks` or `scripts` folder. Ensure you have the **AT&T Database of Faces** in the appropriate directory.
-
-```bash
-git clone https://github.com/your-repo/eigenfaces-vs-fisherfaces.git
-cd eigenfaces-vs-fisherfaces
