@@ -37,7 +37,7 @@ The **AT&T Database of Faces** was used for the project.
     - Facial details (e.g., with/without glasses).
     - Small positional shifts (tolerance for side movement).
 
-- **Credit**: AT&T Laboratories Cambridge.
+
 
 ## Objectives
 
